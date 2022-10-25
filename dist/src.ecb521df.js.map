@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["val4","name","age","console","log"],"mappings":";AAAA,IAAMA,EAAO,CACXC,KAAM,MACNC,IAAK,IAGPC,QAAQC,IAAIJ","file":"src.ecb521df.js","sourceRoot":"..","sourcesContent":["const val4 = {\n  name: \"はまだ\",\n  age: 40\n};\n\nconsole.log(val4);\n"]}
